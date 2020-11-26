@@ -15,8 +15,8 @@
          enabled="true"
          homeMashup=""
          identifier=""
-         lastModifiedDate="2020-11-26T10:08:09.687Z"
-         name="SimulatorGitThing"
+         lastModifiedDate="2020-11-26T10:39:30.497Z"
+         name="SimulatorThing"
          projectName="Simulator"
          published="false"
          tags=""
@@ -103,7 +103,7 @@
                             <BranchName></BranchName>
                             <CommitEmail>
                             <![CDATA[
-                            shubhamrath@hcl.com
+                            shubhamrat@hcl.com
                             ]]>
                             </CommitEmail>
                             <CommitName>
@@ -118,7 +118,7 @@
                             </FileRepository>
                             <GitRepoURL>
                             <![CDATA[
-                            https://github.com/shubhamrat/Test_DevOps.git
+                            https://github.com/shubhamrat/Test_DevOps
                             ]]>
                             </GitRepoURL>
                             <Password></Password>
